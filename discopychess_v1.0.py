@@ -155,4 +155,4 @@ async def on_ready():
     print('-------------')
     
 
-client.run('NzU4NzMzMzA1MzYwMTU0NjM2.X2zPdA.-IGWFv__V655uMpspxhxzKuXVYY')
+client.run('Token')
